@@ -2312,7 +2312,7 @@ button#btn-search {
 	margin-left: -49px;
 	width: 98px;
 	height: 24px;
-	background: #fff url(/wp-content/themes/blossom-feminine/images/bg-quote.png) no-repeat center;
+	background: #fff url(http://127.0.0.1/wp-content/themes/blossom-feminine/images/bg-quote.png) no-repeat center;
 }
 
 #primary .post .entry-content blockquote p,
@@ -3259,7 +3259,7 @@ button#btn-search {
 	left: 15px;
 	position: absolute;
 	top: 12px;
-	background: url(/wp-content/themes/blossom-feminine/images/btn-prev-month.png) no-repeat;
+	background: url(http://127.0.0.1/wp-content/themes/blossom-feminine/images/btn-prev-month.png) no-repeat;
 	width: 7px;
 	height: 12px;
 	text-indent: -9999px;
@@ -3269,7 +3269,7 @@ button#btn-search {
 	position: absolute;
 	right: 15px;
 	top: 12px;
-	background: url(/wp-content/themes/blossom-feminine/images/btn-next-month.png) no-repeat;
+	background: url(http://127.0.0.1/wp-content/themes/blossom-feminine/images/btn-next-month.png) no-repeat;
 	width: 7px;
 	height: 12px;
 	text-indent: -9999px;
@@ -3375,7 +3375,7 @@ button#btn-search {
 	margin: 0;
 	float: right;
 	font-size: 0;
-	background: #000 url(/wp-content/themes/blossom-feminine/images/bg-search-white.png) no-repeat 50% 50%;
+	background: #000 url(http://127.0.0.1/wp-content/themes/blossom-feminine/images/bg-search-white.png) no-repeat 50% 50%;
 	width: 48px;
 	height: 48px;
 	border: 0;
@@ -4331,7 +4331,7 @@ button#btn-search {
 }
 
 .search .top-bar .search-form input[type="submit"] {
-	background: url(/wp-content/themes/blossom-feminine/images/bg-search.png) no-repeat;
+	background: url(http://127.0.0.1/wp-content/themes/blossom-feminine/images/bg-search.png) no-repeat;
 	width: 18px;
 	height: 17px;
 	font-size: 0;
@@ -4463,7 +4463,7 @@ button#btn-search {
 
 .error-holder .page-content .search-form input[type="submit"] {
 	font-size: 0;
-	background: url(/wp-content/themes/blossom-feminine/images/bg-search.png) no-repeat;
+	background: url(http://127.0.0.1/wp-content/themes/blossom-feminine/images/bg-search.png) no-repeat;
 	width: 18px;
 	height: 17px;
 	float: right;
@@ -4562,7 +4562,7 @@ button#btn-search {
 }
 
 .site-footer .widget_search .search-form input[type="submit"] {
-	background: #fff url(/wp-content/themes/blossom-feminine/images/bg-search.png) no-repeat 50% 50%;
+	background: #fff url(http://127.0.0.1/wp-content/themes/blossom-feminine/images/bg-search.png) no-repeat 50% 50%;
 }
 
 .site-footer .widget_bttk_image_text_widget ul li .btn-readmore:hover,
