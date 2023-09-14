@@ -1005,13 +1005,13 @@ ul.slides {
 }
 
 .flex-direction-nav li:nth-child(1) a { 
-	background-image: url( '/wp-content/themes/fukasawa/assets/images/icons/chevron-left_w.png' );
+	background-image: url( 'http://127.0.0.1/wp-content/themes/fukasawa/assets/images/icons/chevron-left_w.png' );
 	float: left; 
 	margin-left: -32px;
 }
 
 .flex-direction-nav li:nth-child(2) a { 
-	background-image: url( '/wp-content/themes/fukasawa/assets/images/icons/chevron-right_w.png' );
+	background-image: url( 'http://127.0.0.1/wp-content/themes/fukasawa/assets/images/icons/chevron-right_w.png' );
 	float: right; 
 	margin-right: -32px;
 }
@@ -2287,7 +2287,7 @@ p.comment-form-author { margin-right: 5%; }
 }
 
 .searchform input[type="submit"] {
-	background: transparent url( /wp-content/themes/fukasawa/assets/images/icons/search.svg) no-repeat center;
+	background: transparent url( http://127.0.0.1/wp-content/themes/fukasawa/assets/images/icons/search.svg) no-repeat center;
 	background-size: 24px auto;
 	border: none;
 	box-shadow: none;
